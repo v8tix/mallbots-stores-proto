@@ -2,7 +2,7 @@
 // versions:
 // - protoc-gen-go-grpc v1.3.0
 // - protoc             (unknown)
-// source: pb/api.proto
+// source: pb/stores.api.proto
 
 package pb
 
@@ -586,5 +586,5 @@ var StoresService_ServiceDesc = grpc.ServiceDesc{
 		},
 	},
 	Streams:  []grpc.StreamDesc{},
-	Metadata: "pb/api.proto",
+	Metadata: "pb/stores.api.proto",
 }

@@ -1,6 +1,6 @@
 openapiOptions:
   file:
-    - file: "pb/api.proto"
+    - file: "pb/stores.api.proto"
       option:
         info:
           title: Store Management
